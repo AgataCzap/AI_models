@@ -7,7 +7,7 @@ Some of these models are from:
 - Udemy Course: coming soon
 
 The course models are only for demonstration purposes of my understanding of AI code & theory, I do not take credit for them.
-Every author of the code is credit at every relevant page.
+Every author of the code is credited at every relevant page.
 
 List of my own AI models:
 
