@@ -7,4 +7,4 @@ These models are from:
 - Udemy Artificial Intelligence Tensorflow Course
 - Codecademy Artificial Intelligence with Tensorflow Course 
 
-
+All of these projects demonstrate that I am capable of using Pandas, Numpy, Matplotlib, Keras and Tensorflow Python libraries.
